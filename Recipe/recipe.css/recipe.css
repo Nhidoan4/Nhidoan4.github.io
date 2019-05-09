@@ -1,0 +1,33 @@
+html { 
+background-color: #a1c3cc;}
+
+body { 
+margin-top: 50px;
+    text-align: center;
+}
+
+    
+
+h1 {font-family: serif;;
+    font-size: 36pt;
+    color: #b7825b;
+    border: 4pt dotted #445570; 
+    text-align: center;}
+
+    
+h2 { font-family: cursive;
+    font-size: 20pt;
+    color: #726861;
+    
+}
+
+h3 { 
+    font-size: 18pt;
+    color: #5e6e72;
+    
+}
+
+li {text-align: left;
+margin-left: 160px;}
+
+
