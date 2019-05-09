@@ -1,0 +1,14 @@
+html {
+ background-image: linear-gradient(to right, #5458a8, #d66bd4);
+}
+
+body {
+    margin-left: 300px;
+    margin-top: 50px;}
+
+p { 
+font-size: 150pt;
+font-family: serif;
+color:#f9c8ac;
+text-align: center;
+}
