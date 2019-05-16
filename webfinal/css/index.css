@@ -11,14 +11,14 @@ h1 {
     text-align: center;
     font-family: "cookie";
     font-family: "cookie";
-    font-size: 45pt;
+    font-size: 55pt;
     color: #e8a9a9;
 }
 
 
 a{ 
 color: #9c8bc6;
-    font-size: 30pt;
+    font-size: 45pt;
     font-family: "cookie";
 }
 
@@ -27,6 +27,9 @@ color: #9c8bc6;
 .main{
     font-family: "segoe script";
     font-size:  17pt;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .hope {
