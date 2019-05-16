@@ -11,7 +11,9 @@ body{
 a{ 
 color: #9c8bc6;
     font-size: 45pt;
-    font-family: "cookie";}
+    font-family: "cookie";
+    text-decoration: none;
+}
 
 footer{
      border: 1px solid black;
@@ -23,7 +25,7 @@ footer{
     position: fixed;
     left: 0;
     bottom: 0;
-    padding: 1px;
+    padding-bottom: 10px;
     margin: auto;
     font-size: 18px;
 
