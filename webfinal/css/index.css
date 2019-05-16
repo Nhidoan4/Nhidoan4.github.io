@@ -7,6 +7,7 @@ html{
 body{
     text-align: center;
 }
+
 h1 {
     text-align: center;
     font-family: "cookie";
@@ -19,23 +20,23 @@ h1 {
 a{ 
 color: #9c8bc6;
     font-size: 45pt;
-    font-family: "cookie";
+    font-family: 'Cookie', cursive;
     text-decoration: none;
 }
 
 
 
 .main{
-    font-family: "segoe script";
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size:  17pt;
     text-align: center;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 .hope {
     font-size: 17pt;
-    font-family: "Sacramento";
+font-family: 'Sacramento', cursive;
     font-size: 35pt;
 }
 
