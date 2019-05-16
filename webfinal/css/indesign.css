@@ -11,7 +11,7 @@ body{
 a{ 
 color: #9c8bc6;
     font-size: 45pt;
-    font-family: "cookie";
+   font-family: 'Cookie', cursive;
     text-decoration: none;
 }
 
@@ -38,10 +38,13 @@ img {
     box-shadow: 5px 5px 5px rgba(0,0,0,3);}
 
 .main{
-font-family: "segoe script";
+    font-family: 'Handlee', cursive;
+    font-weight: lighter;
     font-size:  17pt;
- margin-left: 200px;
-    margin-right: 200px;}
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
 
 .banner {
     margin-top: 40px;

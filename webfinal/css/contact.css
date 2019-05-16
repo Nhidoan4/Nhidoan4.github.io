@@ -13,7 +13,7 @@ body{
 a{ 
 color: #9c8bc6;
     font-size: 45pt;
-    font-family: "cookie";
+    font-family: 'Cookie', cursive;
     text-decoration: none;
 }
 
@@ -45,9 +45,10 @@ img {
     box-shadow: 5px 5px 5px rgba(0,0,0,3);}
 
 h1 {
-    font-family: "Sacramento";
-    font-size: 40pt;
-    color: white;
+    color:white;
+    font-family: 'Sacramento', cursive;
+    font-size: 50pt;
+   
 }
 
 .banner {
