@@ -39,6 +39,7 @@ color: #9c8bc6;
 }
 
 
+
 footer{
     border: 1px solid black;
     background-color: #53417f;
@@ -65,13 +66,3 @@ img {
     box-shadow: 5px 5px 5px rgba(0,0,0,3);
 }
 
-@font-face {
-   font-family: 'cookie';
-    font-style: normal;
-    font-weight: normal;
-    src: url('fonts/cookie.ttf') format('truetype');
-    src: local('cookie regular');
-    
-    
-}
-    
